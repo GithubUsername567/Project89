@@ -1,0 +1,16 @@
+.login_div1{
+    color: white;
+    background-color: darkred;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+.login_div2{
+    color: white;
+    background-color: darkred;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+body{
+    color: white;
+    background-color: lightcoral;
+}
